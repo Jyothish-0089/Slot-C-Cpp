@@ -25,7 +25,7 @@ int main(){
 	    }
 	}
 	cout<<"\nNumber of factors : "<<c;
-	cout<<"\n\n"<<f<<"'th factor is "<<arr[f-1]<<".\n\n\n";
+	cout<<"\n\n"<<f<<"'th factor of "<<n<<" is "<<arr[f-1]<<".\n\n\n";
     }
     }
 	return 0;
